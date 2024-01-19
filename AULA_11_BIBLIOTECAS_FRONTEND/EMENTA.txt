@@ -1,0 +1,19 @@
+MODULO:
+
+BIBLIOTECAS FRONTEND
+
+1. Bootstrap
+2. MaterializeCSS
+3. Material UI
+4. Tailwind
+5. Style components
+6. Foundation
+
+EXERCÍCIO:
+1. CRIE UMA PAGINA HTML COM O NOME DE LAYOUT1.HTML
+2. ADICIONE OS LINKS DO BOOTSTRAP
+3. DESENHE O WIREFRAME EM ANEXO UTILIZANDO AS CLASS
+
+.container
+.row
+.col-
