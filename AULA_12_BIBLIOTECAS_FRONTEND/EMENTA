@@ -1,0 +1,38 @@
+MODULO:
+
+
+CONTEUDO:
+- CLASSES
+.CONTAINER
+.ROW
+.COL
+.D-FLEX
+.JUSTIFY-CONTENT-CENTER
+.ALIGN-ITEMS-CENTER
+
+
+SISTEMA DE GRIDS - BOOTSTRAP - class
+
+.col- MOBILE
+.col-xs- TABLET
+.col-md- MONITOR MEDIO
+.col-lg- MONITOR 22 POLEGADAS >
+.col-xl- MONITOR > 28
+.col-xxl = MONITOR > 32
+
+
+
+ANIMATE.CSS
+
+https://animate.style/
+
+MODO DE USO:
+ <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+
+
+CLASS:
+
+<h1 class="animate__animated animate__bounce">An animated element</h1>
