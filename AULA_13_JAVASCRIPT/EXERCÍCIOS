@@ -1,0 +1,11 @@
+1. *Calculadora Simples:*
+   - Crie um programa que solicite dois números ao usuário usando prompt, armazene esses valores em variáveis e, em seguida, exiba a soma, subtração, multiplicação e divisão desses números no console usando console.log.
+
+2. *Área de um Círculo:*
+   - Peça ao usuário para inserir o raio de um círculo. Calcule a área do círculo (A = π * r^2) e exiba o resultado no console.
+
+3. *Conversão de Temperatura:*
+   - Solicite ao usuário que insira uma temperatura em Celsius. Converta essa temperatura para Fahrenheit usando a fórmula F = (C * 9/5) + 32 e exiba o resultado.
+
+4. *Média Ponderada:*
+   - Peça ao usuário para fornecer três notas e seus respectivos pesos. Calcule a média ponderada das notas e exiba o resultado no console.
